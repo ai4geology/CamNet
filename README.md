@@ -48,16 +48,16 @@ To investigating the potential deploying scenario, in addition to CAM, other ima
 **The following shows the original image to CAM heatmap to the GLCM enhanced CAM heatmap**
 
 <div style="display: flex; align-items: flex-start;">
-	<img src="./doc/img/img1.png" width="150rm"> 
-	<img src="./doc/img/hot1.png" width="150rm"> 
-	<img src="./doc/img/heat1.png" width="150rm"> 
+	<img src="./doc/img/img1.png" width="250rm"> 
+	<img src="./doc/img/hot1.png" width="250rm"> 
+	<img src="./doc/img/heat1.png" width="250rm"> 
 </div> 
 
 **Here are some more examples**
 
-<div align=center><img src=".\doc\img\imgExample.png" width="500px" loc="center"/></div>
+<div align=center><img src=".\doc\img\imgExample.png" width="600px" loc="center"/></div>
 
-<div align=center><img src=".\doc\img\heatExample.png" width="500px" loc="center"/></div>
+<div align=center><img src=".\doc\img\heatExample.png" width="600px" loc="center"/></div>
 
 
 
