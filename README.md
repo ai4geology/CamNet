@@ -1,4 +1,4 @@
-### Weakly supervised semantic segmentation of microscopic carbonates on marginal devices
+## Weakly supervised semantic segmentation of microscopic carbonates on marginal devices
 Keran Li<sup>a,1,*</sup>, Yujie Gao<sup>b,1</sup>, Yingjie Ma<sup>b,1</sup>, Chengkun Li<sup>b</sup>, Junjie Ye<sup>b</sup>, Hao Yu<sup>b</sup>, Yiming Xu<sup>b</sup>, Dongyu Zheng<sup>c</sup>, Ardiansyah Koeshidayatullah<sup>d</sup>
 
 <sup>a</sup>State Key Laboratory of Mineral Deposit Research, School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China
