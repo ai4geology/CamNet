@@ -65,6 +65,21 @@ To investigating the potential deploying scenario, in addition to CAM, other ima
 
 <div align=center><img src=".\doc\img\HeatMap_camera.gif" width="400px" loc="center"/></div>
 
+## Citation
+
+If you use CamNet in your research, please cite:
+
+```bibtex
+@article{li2025weakly,
+  title={Weakly supervised semantic segmentation of microscopic carbonates on marginal devices},
+  author={Li, Keran and Gao, Yujie and Ma, Yingjie and Li, Chengkun and Ye, Junjie and Yu, Hao and Xu, Yiming and Zheng, Dongyu and Koeshidayatullah, Ardiansyah},
+  journal={Computers \& Geosciences},
+  pages={106059},
+  year={2025},
+  publisher={Elsevier}
+}
+```
+
 
 
 
