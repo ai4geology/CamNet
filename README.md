@@ -26,20 +26,20 @@ After training by a <b>***ResNet101***</b> (parameters can be seen in <b>***Tabl
 
 **<center>Table 1 Parameters of ResNets</center>**
 
-<div align=center><img src=".\doc\img\resnet.jpg" width="400px" loc="center"/></div>
+<div align=center><img src=".\doc\img\resnet.jpg" width="700px" loc="center"/></div>
 
-<div align=center><img src=".\doc\img\RandM.jpg" width="400px" loc="center"/></div>
+<div align=center><img src=".\doc\img\RandM.jpg" width="600px" loc="center"/></div>
 
 **<center>Fig 2. Original Model Frameworks of (a) ResNet101 and (b) MobileNetV3-Small</center>**
 
-<div align=center><img src=".\doc\img\imn.jpg" width="400px" loc="center"/></div>
+<div align=center><img src=".\doc\img\imn.jpg" width="600px" loc="center"/></div>
 
 **<center>Fig 3. Frameworks improved MobileNetV3-Small; (a) Total framework; (b) Illustration of one bottleneck; (c) Flow of bottlenecks; (d) Illustration of the skip; (e) Flow of contran necks</center>**
 
 To investigating the potential deploying scenario, in addition to CAM, other image processing such as <b>glcm</b> enhancement was used in the final rendering.
 
 **The workflow of this research is:**
-<div align=center><img src=".\doc\img\workflow.jpg" width="400px" loc="center"/></div>
+<div align=center><img src=".\doc\img\workflow.jpg" width="600px" loc="center"/></div>
 
 **<center>Fig 4. Workflow of this research</center>**
 
@@ -48,16 +48,16 @@ To investigating the potential deploying scenario, in addition to CAM, other ima
 **The following shows the original image to CAM heatmap to the GLCM enhanced CAM heatmap**
 
 <div style="display: flex; align-items: flex-start;">
-	<img src="./doc/img/img1.png" width="250rm"> 
-	<img src="./doc/img/hot1.png" width="250rm"> 
-	<img src="./doc/img/heat1.png" width="250rm"> 
+	<img src="./doc/img/img1.png" width="150rm"> 
+	<img src="./doc/img/hot1.png" width="150rm"> 
+	<img src="./doc/img/heat1.png" width="150rm"> 
 </div> 
 
 **Here are some more examples**
 
-<div align=center><img src=".\doc\img\imgExample.png" width="1000px" loc="center"/></div>
+<div align=center><img src=".\doc\img\imgExample.png" width="500px" loc="center"/></div>
 
-<div align=center><img src=".\doc\img\heatExample.png" width="1000px" loc="center"/></div>
+<div align=center><img src=".\doc\img\heatExample.png" width="500px" loc="center"/></div>
 
 
 
