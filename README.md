@@ -1,4 +1,19 @@
-# <center>GeoCamNet: An Extremely Light Carbonate Classification Model Distilled from An Extremely Deep ResNet101 Model 
+## Weakly supervised semantic segmentation of microscopic carbonates on marginal devices
+Keran Li<sup>a,1,*</sup>, Yujie Gao<sup>b,1</sup>, Yingjie Ma<sup>b,1</sup>, Chengkun Li<sup>b</sup>, Junjie Ye<sup>b</sup>, Hao Yu<sup>b</sup>, Yiming Xu<sup>b</sup>, Dongyu Zheng<sup>c</sup>, Ardiansyah Koeshidayatullah<sup>d</sup>
+
+<sup>a</sup>State Key Laboratory of Mineral Deposit Research, School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China
+
+<sup>b</sup>College of Computer Science and Cyber Security, Chengdu university of Technology, Chengdu, 610059, China
+
+<sup>c</sup>State Key Laboratory of Oil and Gas Reservoir Geology and Exploitation and Key Laboratory of Deep-time Geography and Environment Reconstruction and Applications, MNR and Institute of Sedimentary Geology, Chengdu University of Technology, Chengdu 610059, China
+
+<sup>d</sup>Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia
+
+<sup>1</sup>Equal contribution
+<sup>*</sup>Corresponding authors
+
+## [📄 Paper](https://www.sciencedirect.com/science/article/abs/pii/S0098300425002092) | [🌐 Project Page](https://github.com/ai4geology/CamNet)
+---
 
 <div align=center><img src=".\doc\img\heatmap.gif" width="300px" loc="center"/></div>
  
@@ -11,20 +26,20 @@ After training by a <b>***ResNet101***</b> (parameters can be seen in <b>***Tabl
 
 **<center>Table 1 Parameters of ResNets</center>**
 
-<div align=center><img src=".\doc\img\resnet.jpg" width="800px" loc="center"/></div>
+<div align=center><img src=".\doc\img\resnet.jpg" width="700px" loc="center"/></div>
 
-<div align=center><img src=".\doc\img\RandM.jpg" width="800px" loc="center"/></div>
+<div align=center><img src=".\doc\img\RandM.jpg" width="600px" loc="center"/></div>
 
 **<center>Fig 2. Original Model Frameworks of (a) ResNet101 and (b) MobileNetV3-Small</center>**
 
-<div align=center><img src=".\doc\img\imn.jpg" width="800px" loc="center"/></div>
+<div align=center><img src=".\doc\img\imn.jpg" width="600px" loc="center"/></div>
 
 **<center>Fig 3. Frameworks improved MobileNetV3-Small; (a) Total framework; (b) Illustration of one bottleneck; (c) Flow of bottlenecks; (d) Illustration of the skip; (e) Flow of contran necks</center>**
 
 To investigating the potential deploying scenario, in addition to CAM, other image processing such as <b>glcm</b> enhancement was used in the final rendering.
 
 **The workflow of this research is:**
-<div align=center><img src=".\doc\img\workflow.jpg" width="800px" loc="center"/></div>
+<div align=center><img src=".\doc\img\workflow.jpg" width="600px" loc="center"/></div>
 
 **<center>Fig 4. Workflow of this research</center>**
 
@@ -40,15 +55,30 @@ To investigating the potential deploying scenario, in addition to CAM, other ima
 
 **Here are some more examples**
 
-<div align=center><img src=".\doc\img\imgExample.png" width="1000px" loc="center"/></div>
+<div align=center><img src=".\doc\img\imgExample.png" width="600px" loc="center"/></div>
 
-<div align=center><img src=".\doc\img\heatExample.png" width="1000px" loc="center"/></div>
+<div align=center><img src=".\doc\img\heatExample.png" width="600px" loc="center"/></div>
 
 
 
 **Here's how to works in camera**
 
 <div align=center><img src=".\doc\img\HeatMap_camera.gif" width="400px" loc="center"/></div>
+
+## Citation
+
+If you use CamNet in your research, please cite:
+
+```bibtex
+@article{li2025weakly,
+  title={Weakly supervised semantic segmentation of microscopic carbonates on marginal devices},
+  author={Li, Keran and Gao, Yujie and Ma, Yingjie and Li, Chengkun and Ye, Junjie and Yu, Hao and Xu, Yiming and Zheng, Dongyu and Koeshidayatullah, Ardiansyah},
+  journal={Computers \& Geosciences},
+  pages={106059},
+  year={2025},
+  publisher={Elsevier}
+}
+```
 
 
 
