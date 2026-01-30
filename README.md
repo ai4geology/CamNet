@@ -12,7 +12,7 @@ Keran Li<sup>a,1,*</sup>, Yujie Gao<sup>b,1</sup>, Yingjie Ma<sup>b,1</sup>, Che
 <sup>1</sup>Equal contribution
 <sup>*</sup>Corresponding authors
 
-## [📄 Paper](https://www.sciencedirect.com/science/article/abs/pii/S0098300425002092) | [🌐 Project Page](https://github.com/ai4geology/CamNet)
+### [📄 Paper](https://www.sciencedirect.com/science/article/abs/pii/S0098300425002092) | [🌐 Project Page](https://github.com/ai4geology/CamNet)
 ---
 
 <div align=center><img src=".\doc\img\heatmap.gif" width="300px" loc="center"/></div>
